@@ -1,3 +1,4 @@
 *.hide.*
 node_modules/
 cert/
+*.temp.*
