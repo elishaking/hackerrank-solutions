@@ -79,4 +79,4 @@ function biggerIsGreater(w) {
 
 // console.log(biggerIsGreater("hefg"));
 // console.log(biggerIsGreater("ab"));
-console.log(biggerIsGreater("dkhc"));
+// console.log(biggerIsGreater("dkhc"));
